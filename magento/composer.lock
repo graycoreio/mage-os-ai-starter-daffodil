@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8f2e6a7abc6c771e56e92d1285223a16",
+    "content-hash": "a59f47e5c1ce103a256dcecf971540b2",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -28385,16 +28385,16 @@
         },
         {
             "name": "mage-os/magento-coding-standard",
-            "version": "3.1.0",
+            "version": "3.2.0",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.mage-os.org/packages/mage-os/magento-coding-standard-3.1.0.zip",
-                "shasum": "5577edb1850307f577ab1d32ee5ba00eea8f17ae"
+                "url": "https://repo.mage-os.org/packages/mage-os/magento-coding-standard-3.2.0.zip",
+                "shasum": "c0c73615d8b3c42ff941cd878f8b690c076f8996"
             },
             "require": {
                 "ext-dom": "*",
                 "ext-simplexml": "*",
-                "mage-os/php-compatibility-fork": "3.1.0",
+                "mage-os/php-compatibility-fork": "3.2.0",
                 "php": "~8.1.0 || ~8.2.0 || ~8.3.0 || ~8.4.0 || ~8.5.0",
                 "phpcsstandards/phpcsutils": "^1.2.2",
                 "rector/rector": "^1.2.4 || ^2.0.0",
@@ -28535,11 +28535,11 @@
         },
         {
             "name": "mage-os/php-compatibility-fork",
-            "version": "3.1.0",
+            "version": "3.2.0",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.mage-os.org/packages/mage-os/php-compatibility-fork-3.1.0.zip",
-                "shasum": "c4269f357f15110c73117a7cf4db85c2c1880161"
+                "url": "https://repo.mage-os.org/packages/mage-os/php-compatibility-fork-3.2.0.zip",
+                "shasum": "e4f819765329706ce9e99b4775f389113f601380"
             },
             "require": {
                 "php": ">=5.4",
