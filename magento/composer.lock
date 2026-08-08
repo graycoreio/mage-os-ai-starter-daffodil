@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "96909f38fd47c964a31768c8844da1e3",
+    "content-hash": "d60cee173c171ac17a4381219a9840d5",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -28391,16 +28391,16 @@
         },
         {
             "name": "mage-os/magento-coding-standard",
-            "version": "3.2.0",
+            "version": "3.3.0",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.mage-os.org/packages/mage-os/magento-coding-standard-3.2.0.zip",
-                "shasum": "c0c73615d8b3c42ff941cd878f8b690c076f8996"
+                "url": "https://repo.mage-os.org/packages/mage-os/magento-coding-standard-3.3.0.zip",
+                "shasum": "b0ce6ff4d7a13850abe9bc9389d44d8057f18db2"
             },
             "require": {
                 "ext-dom": "*",
                 "ext-simplexml": "*",
-                "mage-os/php-compatibility-fork": "3.2.0",
+                "mage-os/php-compatibility-fork": "3.3.0",
                 "php": "~8.1.0 || ~8.2.0 || ~8.3.0 || ~8.4.0 || ~8.5.0",
                 "phpcsstandards/phpcsutils": "^1.2.2",
                 "rector/rector": "^1.2.4 || ^2.0.0",
@@ -28541,11 +28541,11 @@
         },
         {
             "name": "mage-os/php-compatibility-fork",
-            "version": "3.2.0",
+            "version": "3.3.0",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.mage-os.org/packages/mage-os/php-compatibility-fork-3.2.0.zip",
-                "shasum": "e4f819765329706ce9e99b4775f389113f601380"
+                "url": "https://repo.mage-os.org/packages/mage-os/php-compatibility-fork-3.3.0.zip",
+                "shasum": "f7f09e59bbe5b1cbc6e92fcf8db39fc886d339b8"
             },
             "require": {
                 "php": ">=5.4",
@@ -31178,16 +31178,16 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.13.5",
+            "version": "3.13.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
-                "reference": "0ca86845ce43291e8f5692c7356fccf3bcf02bf4"
+                "reference": "4c378e1a528ea066890fc2397cbdd2f94eb2fc91"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/0ca86845ce43291e8f5692c7356fccf3bcf02bf4",
-                "reference": "0ca86845ce43291e8f5692c7356fccf3bcf02bf4",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/4c378e1a528ea066890fc2397cbdd2f94eb2fc91",
+                "reference": "4c378e1a528ea066890fc2397cbdd2f94eb2fc91",
                 "shasum": ""
             },
             "require": {
@@ -31253,7 +31253,7 @@
                     "type": "thanks_dev"
                 }
             ],
-            "time": "2025-11-04T16:30:35+00:00"
+            "time": "2026-08-06T00:17:32+00:00"
         },
         {
             "name": "staabm/side-effects-detector",
