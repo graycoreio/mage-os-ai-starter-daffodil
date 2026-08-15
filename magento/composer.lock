@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "59a5cc7a7935ef16bb9e40752e86532f",
+    "content-hash": "28773eb2a35e0c7035f0704f8820c75b",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -144,16 +144,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.391.1",
+            "version": "3.392.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "90920ce5518aa864e04da0224bb0ba0ee9e31d7f"
+                "reference": "0ca19a44856b2497ae426f800d35ad97ee179d1a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/90920ce5518aa864e04da0224bb0ba0ee9e31d7f",
-                "reference": "90920ce5518aa864e04da0224bb0ba0ee9e31d7f",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/0ca19a44856b2497ae426f800d35ad97ee179d1a",
+                "reference": "0ca19a44856b2497ae426f800d35ad97ee179d1a",
                 "shasum": ""
             },
             "require": {
@@ -235,9 +235,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.391.1"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.392.3"
             },
-            "time": "2026-08-07T20:18:18+00:00"
+            "time": "2026-08-14T18:11:43+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -28445,11 +28445,11 @@
         },
         {
             "name": "mage-os/magento2-functional-testing-framework",
-            "version": "3.3.0",
+            "version": "3.4.0",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.mage-os.org/packages/mage-os/magento2-functional-testing-framework-3.3.0.zip",
-                "shasum": "df39d045fc753575a983ce8b1a7a41bf7ce7a12c"
+                "url": "https://repo.mage-os.org/packages/mage-os/magento2-functional-testing-framework-3.4.0.zip",
+                "shasum": "c79227a151dccc0ab6995eae213f082f08977fc9"
             },
             "require": {
                 "allure-framework/allure-codeception": "^2.1",
@@ -28689,20 +28689,20 @@
         },
         {
             "name": "myclabs/deep-copy",
-            "version": "1.13.4",
+            "version": "1.14.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/myclabs/DeepCopy.git",
-                "reference": "07d290f0c47959fd5eed98c95ee5602db07e0b6a"
+                "reference": "8680aa248f8e07bc8fb43f56f0f5fc77a0c96aae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/myclabs/DeepCopy/zipball/07d290f0c47959fd5eed98c95ee5602db07e0b6a",
-                "reference": "07d290f0c47959fd5eed98c95ee5602db07e0b6a",
+                "url": "https://api.github.com/repos/myclabs/DeepCopy/zipball/8680aa248f8e07bc8fb43f56f0f5fc77a0c96aae",
+                "reference": "8680aa248f8e07bc8fb43f56f0f5fc77a0c96aae",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.1 || ^8.0"
+                "php": "^8.0"
             },
             "conflict": {
                 "doctrine/collections": "<1.6.8",
@@ -28737,15 +28737,15 @@
             ],
             "support": {
                 "issues": "https://github.com/myclabs/DeepCopy/issues",
-                "source": "https://github.com/myclabs/DeepCopy/tree/1.13.4"
+                "source": "https://github.com/myclabs/DeepCopy/tree/1.14.0"
             },
             "funding": [
                 {
-                    "url": "https://tidelift.com/funding/github/packagist/myclabs/deep-copy",
-                    "type": "tidelift"
+                    "url": "https://github.com/mnapoli",
+                    "type": "github"
                 }
             ],
-            "time": "2025-08-01T08:46:24+00:00"
+            "time": "2026-08-11T10:17:44+00:00"
         },
         {
             "name": "pdepend/pdepend",
