@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "59a5cc7a7935ef16bb9e40752e86532f",
+    "content-hash": "55b188b26a3b09c8b0aeffde1c3f066d",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -5378,11 +5378,11 @@
         },
         {
             "name": "mage-os/composer-root-update-plugin",
-            "version": "3.3.0",
+            "version": "3.4.0",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.mage-os.org/packages/mage-os/composer-root-update-plugin-3.3.0.zip",
-                "shasum": "bfb764516bd13af303061f8ce979457fa8844452"
+                "url": "https://repo.mage-os.org/packages/mage-os/composer-root-update-plugin-3.4.0.zip",
+                "shasum": "3fc59deb40160dde2701bf84803a25a6b42421bb"
             },
             "require": {
                 "composer-plugin-api": "^1.0 || ^2.0",
