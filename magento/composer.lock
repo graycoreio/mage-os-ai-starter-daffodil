@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "59a5cc7a7935ef16bb9e40752e86532f",
+    "content-hash": "849abf65995f2cf8fe1afd9566efbc45",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -26821,16 +26821,16 @@
         },
         {
             "name": "webonyx/graphql-php",
-            "version": "v15.37.1",
+            "version": "v15.37.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webonyx/graphql-php.git",
-                "reference": "8c620457202b5c8d81582338238f769790ef718a"
+                "reference": "f2a5d802213eb231d17a21badbda22b01435f177"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webonyx/graphql-php/zipball/8c620457202b5c8d81582338238f769790ef718a",
-                "reference": "8c620457202b5c8d81582338238f769790ef718a",
+                "url": "https://api.github.com/repos/webonyx/graphql-php/zipball/f2a5d802213eb231d17a21badbda22b01435f177",
+                "reference": "f2a5d802213eb231d17a21badbda22b01435f177",
                 "shasum": ""
             },
             "require": {
@@ -26843,12 +26843,12 @@
                 "amphp/http-server": "^2.1 || ^3",
                 "dms/phpunit-arraysubset-asserts": "dev-master",
                 "ergebnis/composer-normalize": "^2.28",
-                "friendsofphp/php-cs-fixer": "3.95.17",
+                "friendsofphp/php-cs-fixer": "3.95.18",
                 "mll-lab/php-cs-fixer-config": "5.13.0",
                 "nyholm/psr7": "^1.5",
                 "phpbench/phpbench": "^1.2",
                 "phpstan/extension-installer": "^1.1",
-                "phpstan/phpstan": "2.2.6",
+                "phpstan/phpstan": "2.2.8",
                 "phpstan/phpstan-phpunit": "2.0.18",
                 "phpstan/phpstan-strict-rules": "2.0.12",
                 "phpunit/phpunit": "^9.5 || ^10.5.21 || ^11",
@@ -26885,7 +26885,7 @@
             ],
             "support": {
                 "issues": "https://github.com/webonyx/graphql-php/issues",
-                "source": "https://github.com/webonyx/graphql-php/tree/v15.37.1"
+                "source": "https://github.com/webonyx/graphql-php/tree/v15.37.2"
             },
             "funding": [
                 {
@@ -26897,7 +26897,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2026-07-29T07:35:47+00:00"
+            "time": "2026-08-14T06:29:42+00:00"
         },
         {
             "name": "wikimedia/less.php",
@@ -28391,16 +28391,16 @@
         },
         {
             "name": "mage-os/magento-coding-standard",
-            "version": "3.3.0",
+            "version": "3.4.0",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.mage-os.org/packages/mage-os/magento-coding-standard-3.3.0.zip",
-                "shasum": "b0ce6ff4d7a13850abe9bc9389d44d8057f18db2"
+                "url": "https://repo.mage-os.org/packages/mage-os/magento-coding-standard-3.4.0.zip",
+                "shasum": "a447743feb1069149a6fce6bf7e5260fac51dd83"
             },
             "require": {
                 "ext-dom": "*",
                 "ext-simplexml": "*",
-                "mage-os/php-compatibility-fork": "3.3.0",
+                "mage-os/php-compatibility-fork": "3.4.0",
                 "php": "~8.1.0 || ~8.2.0 || ~8.3.0 || ~8.4.0 || ~8.5.0",
                 "phpcsstandards/phpcsutils": "^1.2.2",
                 "rector/rector": "^1.2.4 || ^2.0.0",
@@ -28541,11 +28541,11 @@
         },
         {
             "name": "mage-os/php-compatibility-fork",
-            "version": "3.3.0",
+            "version": "3.4.0",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.mage-os.org/packages/mage-os/php-compatibility-fork-3.3.0.zip",
-                "shasum": "f7f09e59bbe5b1cbc6e92fcf8db39fc886d339b8"
+                "url": "https://repo.mage-os.org/packages/mage-os/php-compatibility-fork-3.4.0.zip",
+                "shasum": "e0ed6d1d0eea7ca2a4e6ac0a724c7d19f344d64a"
             },
             "require": {
                 "php": ">=5.4",
