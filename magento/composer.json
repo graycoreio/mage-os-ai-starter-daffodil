@@ -18,7 +18,7 @@
   },
   "require": {
     "mage-os/composer-dependency-version-audit-plugin": "3.4.0",
-    "mage-os/composer-root-update-plugin": "3.4.0",
+    "mage-os/composer-root-update-plugin": "3.5.0",
     "mage-os/product-community-edition": "3.4.0"
   },
   "require-dev": {
